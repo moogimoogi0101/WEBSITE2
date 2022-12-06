@@ -195,9 +195,9 @@ img {
       border-color: #333; }
 
 #header-home {
-  background: url(/dist/img/showcase1.jpg) no-repeat center right/cover;
+  background: url(/dist/img/showcase.png) no-repeat center right/cover;
   height: 100vh;
-  color: red; }
+  color: #f4f4f4; }
   #header-home .header-content {
     text-align: center;
     padding-top: 20%; }
@@ -206,7 +206,7 @@ img {
     line-height: 1.2; }
 
 #header-inner {
-  background: url(/dist/img/showcase1.jpg) no-repeat 10% 10%/cover;
+  background: url(/dist/img/showcase.png) no-repeat 10% 10%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #e0e0e0; }
 
@@ -409,7 +409,7 @@ img {
   #header-home {
     height: 10rem;
     border-bottom: 3px solid #ffbc00;
-    background: url(/dist/img/showcase1.jpg) no-repeat 10% 10%/cover; }
+    background: url(/dist/img/showcase.png) no-repeat 10% 10%/cover; }
     #header-home .header-content {
       display: none; }
   #header-inner {
