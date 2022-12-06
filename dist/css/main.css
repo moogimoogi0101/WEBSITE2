@@ -197,7 +197,7 @@ img {
 #header-home {
   background: url(/dist/img/showcase.png) no-repeat center right/cover;
   height: 100vh;
-  color: #f4f4f4; }
+  color: red; }
   #header-home .header-content {
     text-align: center;
     padding-top: 20%; }
